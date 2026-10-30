@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: darkred;
+}
+
+.style1 {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.style2 {
+  font-size: 17px;
+  color: #111;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
